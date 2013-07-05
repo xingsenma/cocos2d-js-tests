@@ -4002,7 +4002,7 @@ var SpriteSubclass = SpriteTestDemo.extend({
 // AnimationCache
 //
 //------------------------------------------------------------------
-var AnimationCache = SpriteTestDemo.extend({
+var AnimationCacheTest = SpriteTestDemo.extend({
 
     _title:"AnimationCache",
     _subtitle:"Sprite should be animated",
@@ -4876,7 +4876,7 @@ var arrayOfSpriteTest = [
     SpriteBatchNodeChildrenChildren,
     SpriteNilTexture,
     SpriteSubclass,
-    AnimationCache,
+    AnimationCacheTest,
     SpriteOffsetAnchorSkew,
     SpriteBatchNodeOffsetAnchorSkew,
     SpriteOffsetAnchorSkewScale,
